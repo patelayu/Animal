@@ -1,16 +1,3 @@
-# animal
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230412_101417](https://user-images.githubusercontent.com/121868302/231353837-712efe51-4b0e-46bb-a6c9-2dd534655b31.png)
+![Screenshot_20230412_101507](https://user-images.githubusercontent.com/121868302/231353879-24943d30-b8bb-4b16-b7ac-b2084b91e791.png)
+![Screenshot_20230412_101522](https://user-images.githubusercontent.com/121868302/231353899-f82a49fc-a0ad-467f-8123-a757fd3ecc9a.png)
